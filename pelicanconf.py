@@ -19,7 +19,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('rexu@qtov.xyz', 'mailto:rexu@qtov.xyz'),)
+LINKS = (('E-Mail: rexu@qtov.xyz', 'mailto:rexu@qtov.xyz'),)
 
 # Social widget
 SOCIAL = (('Instagram (mostly pottery)', 'https://www.instagram.com/kvazhir/'),)
