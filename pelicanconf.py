@@ -19,10 +19,12 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-# LINKS = (('Ceramics', 'https://www.instagram.com/kvazhir/'),)
+LINKS = (('rexu@qtov.xyz', 'mailto:rexu@qtov.xyz'),)
 
 # Social widget
 SOCIAL = (('Instagram (mostly pottery)', 'https://www.instagram.com/kvazhir/'),)
+
+GITHUB_URL = 'https://github.com/qtov'
 
 DEFAULT_PAGINATION = 10
 
