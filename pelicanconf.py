@@ -19,10 +19,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Ceramics', 'https://www.instagram.com/kvazhir/'),)
+# LINKS = (('Ceramics', 'https://www.instagram.com/kvazhir/'),)
 
 # Social widget
-SOCIAL = ()
+SOCIAL = (('Instagram (mostly pottery)', 'https://www.instagram.com/kvazhir/'),)
 
 DEFAULT_PAGINATION = 10
 
