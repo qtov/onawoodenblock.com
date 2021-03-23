@@ -3,7 +3,7 @@ Date: 2010-12-03 10:21
 Modified: 2010-12-05 19:31
 Category: Python2
 Tags: pelican, publishing
-Slug: my-super-post
+Slug: my-super-post2
 Authors: Rexu
 Summary: Short version for index and feeds
 
