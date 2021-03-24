@@ -9,7 +9,7 @@ PATH = 'content'
 
 TIMEZONE = 'Europe/Bucharest'
 
-DEFAULT_LANG = 'English'
+DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -22,9 +22,10 @@ AUTHOR_FEED_RSS = None
 LINKS = (('E-Mail: rexu@qtov.xyz', 'mailto:rexu@qtov.xyz'),)
 
 # Social widget
-SOCIAL = (('Instagram (mostly pottery)', 'https://www.instagram.com/kvazhir/'),)
+# SOCIAL = (('Instagram (mostly pottery)', 'https://www.instagram.com/kvazhir/'),)
 
-GITHUB_URL = 'https://github.com/qtov'
+# Better not, not into showing myself.
+# GITHUB_URL = 'https://github.com/qtov'
 
 DEFAULT_PAGINATION = 10
 
