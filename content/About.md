@@ -5,7 +5,7 @@ Tags: about, news
 Authors: Rexu
 Summary: Short summary to what this blog is about.
 
-Who am I? Nobody important.
+Who am I?
 
 I live in Cluj-Napoca (for now) and probably will move to Debrecen in the next couple of months. I'm not sure though, we'll see.
 
@@ -19,6 +19,6 @@ Currently working in an IT position for 3 years (at the date of writing this).
 
 I have a lot of bashing to do for some places in Cluj, so I'm doing this to immortalize the money loss that occured from ordering from them.
 
-I'm writing it in English because I like English (not amazing at it, but life), and it offers the possibility for the hundreds of thousands of people awaiting to read my blog to actually be able to.
+I'm writing it in English because I like English, and it offers the possibility for the hundreds of thousands of people awaiting to read my blog to actually be able to.
 
 I hope you'll like it, see ya!
