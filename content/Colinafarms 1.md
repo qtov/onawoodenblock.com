@@ -21,4 +21,4 @@ Tomorrow I plan on making some [chamchi jjigae (spicy tuna stew)](https://www.ma
 But all in all, is it worth it? 75 ron for 15 ron worth of veggies (non-bio, normal)? Eh.
 If you've got the money, definitely! They came to me green and lively, unlike the ones I find in the supermarket, lacking of life. Also, to mention, I'm not going to the market cause I don't really leave my house, lol.
 
-I'll update more if I think there's any need to do so, until then, see ya.
+I'll update more if I think there's any need to do so, until then, see ya!
