@@ -12,7 +12,7 @@ What I got was 1kg of potatoes, 2 pcs celeriac, 4 packs of kale, 100g of rucola,
 
 Indeed it does feel quite expensive, 75 ron for this much, BUT! it's good.
 Like, you can feel the taste of the green onions depending on where you buy them from. When I ordered from Bringo (Carrefour) some green onions they had quite an unpleasant taste, and it wasn't a one-time pot of bad luck, but it became a habit.
-Those spring onions from colina remind me of the onoins that my grandma grew, they're delicious. Anyways, I cut the stems and shoved them in a box with dirt, I'll grow some on my own as well, cheaper.
+Those spring onions from colina remind me of the onions that my grandma grew, they're delicious. Anyways, I cut the stems and shoved them in a box with dirt, I'll grow some on my own as well, cheaper.
 
 I filled myself a bowl of leaves and I munched on them like a rabbit, I feel like the green salad and rucola work with anything. One bite of food, a mouthful of leaves.
 
