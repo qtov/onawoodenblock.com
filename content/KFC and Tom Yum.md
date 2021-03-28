@@ -7,9 +7,9 @@ Summary: KFC and Tom Yum
 
 So... Friday I had a strong desire for KFC. I went on foodpanda (cause Tazz doesn't have it) and looked to see which can get me the best deal for my money.
 
-- 80 ron for Giant Bucket, \~670g of meat, \~480g of potatoes. eh... potatoes are cheap, I can fry myself, I have around 2-3kgs of fresh potatoes.
-- 47.5 ron for American Bucket, \~550g of meat (11 crispy, 11 wings).
-- 36.5 ron for Hot Bucket, \~400g of meat (20 wings).
+- 80 ron for Giant Bucket, ~670g of meat, ~480g of potatoes. eh... potatoes are cheap, I can fry myself, I have around 2-3kgs of fresh potatoes.
+- 47.5 ron for American Bucket, ~550g of meat (11 crispy, 11 wings).
+- 36.5 ron for Hot Bucket, ~400g of meat (20 wings).
 
 The American Bucket is the best choice, 0.086 ron for gram of meat, compared to Hot Bucket which is 0.091 ron for gram of meat (and all of them are wings, so I'd pay for bones as well). I'm a cheap person, I usually buy only when heavily discounted, I can barely afford to order once a week, so better make the best out of it, lol.
 
