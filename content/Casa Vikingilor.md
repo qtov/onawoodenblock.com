@@ -19,7 +19,7 @@ Anyways, it went directly in the toilet.
 To add wood on fire, the meat was stringy af, the pork or whatever it was could've won the title for the oldest living mammal.
 And the sauerkraut, it was ok, nothing to complain about that one.
 
-Point is, when someone can't even make a mujdei properly, then I know the restaurant is worth shit, like common, how freaking hard can it be? And can't you even taste to see that it tastes like piss? C'mon...
+Point is, when someone can't even make a mujdei properly, then I know the restaurant is worth shit, like come on, how freaking hard can it be? And can't you even taste to see that it tastes like piss? C'mon...
 
 Yeah, so this was it, disappointment, paid a shitton for delivery (10-15 ron), 5 ron went to trash, 5 ron tip for delivery guy and sadness. Loss of money, I have been avoiding them ever since, I'm scared of throwing food, I don't like throwing food.
 
