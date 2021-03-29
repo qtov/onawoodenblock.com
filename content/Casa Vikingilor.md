@@ -6,7 +6,7 @@ Authors: Rexu
 Summary: Depressing garlic sauce (mujdeiul trist)
 
 So, I put once, two years ago an order for some food at Casa Vikingilor, it was at that time when you had to pay quite a big delivery fee, I think from HipMenu.
-Food arrives, I'm excited, I take out my sauerkraut, my meat and my mujdei.
+Food arrives, I'm excited, I take out my sauerkraut, my meat and my mujdei (garlic sauce usually made with water, garlic, salt, but sometimes added some milk, heavy cream, or tomatoes).
 
 Put some of the meat in mujdei and take a bite... something's bitter. Take a bite without mujdei, it tastes like meat.
 
