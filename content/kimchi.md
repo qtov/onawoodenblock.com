@@ -10,13 +10,14 @@ It's great.
 
 That's all, see ya!
 
-Alright alright, how do you make kimchi. I'm by no means korean, but I like kimchi. And if I want to buy it from my local asian store... it's HELLISHLY expesive. Imagine 30-35 ron for 200-300g of kimchi. Where when I make my own, 20 ron max for 4kgs. Also, mine is way better, I'm serious.
+Alright alright, how do you make kimchi. I'm by no means korean, but I like kimchi. And if I want to buy it from my local asian store... it's HELLISHLY expesive. Imagine 30-35 ron for 200-300g of kimchi. Where when I make my own, 20 ron max for around 3kg. Also, mine is way better, I'm serious.
 
 There are a shit ton of kimchi recipes around the internet but I'll share with you my take on it and the experiences I've had with it. I usually skip sugar or any "empty" carbs when I cook. That's why never make a rice flour porridge for it, but you can definitely take that approach! For the rice flour alternative, [Maangchi](https://www.maangchi.com/) has a good [recipe](https://www.maangchi.com/recipe/easy-kimchi).
 
-The very first recipe I ever tried (and the one I am mostly going with) is from [Joshua Weismann](https://www.youtube.com/channel/UChBEbMKI1eCcejTtmI32UEw) and it was [this video](https://www.youtube.com/watch?v=aXhJcdXPyYI). His blog post about kimchi is [https://www.joshuaweissman.com/post/kimchi](https://www.joshuaweissman.com/post/kimchi).
+The very first recipe I ever tried (and the one I am mostly going with) is from [Joshua Weismann](https://www.youtube.com/channel/UChBEbMKI1eCcejTtmI32UEw) and it was [this video](https://www.youtube.com/watch?v=aXhJcdXPyYI). His recipe is also on his blog ([https://www.joshuaweissman.com/post/kimchi](https://www.joshuaweissman.com/post/kimchi)).
 
 What can easily be substituted in his recipe are:
+
 - daikon radishes (aka white radish) for black radish (cut them thin though, they have a special spiciness to them) or even simple radish (cut it thin as well)
 - asian pear for an apple or normal pear, lol
 - sometimes when you really can't find spring onions... leek also worked. Spring onions though are clearly the best choice, hands down.
@@ -25,6 +26,7 @@ And what you can add are yellow onions, they work very well in the sauce.
 For grams, look at the blog post of Joshua Weismann, it's a good starting point, you don't have to be too accurate.
 
 Usually my choice of ingredients are:
+
 - Napa Cabbage: 2 big pieces
 - Iodine Free Salt: enough, you'll see later on
 - Carrots: 2 medium/big pieces
@@ -32,6 +34,7 @@ Usually my choice of ingredients are:
 - Green onions: around 6-7 medium pieces.
 
 And for the paste:
+
 - apple: 1 medium/large
 - yellow onion: 1 medium, can be skipped, but it's better with
 - garlic: ~30g-50g
@@ -49,7 +52,7 @@ Well then, how do you make kimchi. I highly suggest watching Joshua Weismann's [
 - As a first try, I suggest cutting the cabbage as shown in the video, [bite size pieces](images/kimchi_bite_size.jpg), it'll be easier.
 Shove them in a bowl and salt them heavily, think oversalted, and add a bit more.
 - Let the cabbage sit for around 1 hour, 2 hours even, or 30 minutes if you're too hurried.
-- Until then, prepare the other vegetables, cut things in strips, if they're too thin you won't feel a bite to them. I usually do something like [batonnet](images/cut_names.jpg). If you're using black radish, cut it to fine julliene, or if you enjoy the taste, bigger. One of my batches were cut like [this](images/kimchi_pieces.jpg).
+- Until then, prepare the other vegetables, cut things in strips, if they're too thin you won't feel a bite to them. I usually do something like [batonnet](images/cut_names.jpg). If you're using black radish, cut it to fine julliene, or if you enjoy the taste, bigger. The veggies of one of my batches were cut like [this](images/kimchi_pieces.jpg).
 - Shove the ingredients for the paste in a food processor and make the paste. If the paste is too thick, add more fish sauce. I love the taste of it, so I can use a lot and still love the hell out of it.
 - After the cabbage soaked for 1 hour, wash it thoroughly under running water to wash all the excess salt. The amount of salt that we need is already absorbed in the cabbage.
 - Combine everything together and put in a glass jar, or plastic (food safe and BPA free) and push it down so to pack it tightly, not overly violent. Cover with lid, not fully, if the bacteria needs to fart, let the farts escape.
