@@ -49,7 +49,7 @@ Well then, how do you make kimchi. I highly suggest watching Joshua Weismann's [
 - As a first try, I suggest cutting the cabbage as shown in the video, [bite size pieces](images/kimchi_bite_size.jpg), it'll be easier.
 Shove them in a bowl and salt them heavily, think oversalted, and add a bit more.
 - Let the cabbage sit for around 1 hour, 2 hours even, or 30 minutes if you're too hurried.
-- Until then, prepare the other vegetables, cut things in strips, if they're too thin you won't feel a bite to them. I usually do something between [batonnet and julienne](images/cut_names.jpg). If you're using black radish, cut it to fine julliene, or if you enjoy the taste, bigger.
+- Until then, prepare the other vegetables, cut things in strips, if they're too thin you won't feel a bite to them. I usually do something like [batonnet](images/cut_names.jpg). If you're using black radish, cut it to fine julliene, or if you enjoy the taste, bigger. One of my batches were cut like [this](images/kimchi_pieces.jpg).
 - Shove the ingredients for the paste in a food processor and make the paste. If the paste is too thick, add more fish sauce. I love the taste of it, so I can use a lot and still love the hell out of it.
 - After the cabbage soaked for 1 hour, wash it thoroughly under running water to wash all the excess salt. The amount of salt that we need is already absorbed in the cabbage.
 - Combine everything together and put in a glass jar, or plastic (food safe and BPA free) and push it down so to pack it tightly, not overly violent. Cover with lid, not fully, if the bacteria needs to fart, let the farts escape.
@@ -64,5 +64,7 @@ It goes on almost everything, it's seriously delicious.
 How does fermentation work? We'll explore that some other time, I have to talk about it quite a bit, I'm in love with it. But I can't ever explain it better than the book "The Art of Fermentation" by Sandor Katz.
 
 That's my take on kimchi, it's worth trying it at least once in your life, I fell in love instantly (I usually fall in love with fermented foods, so it's not new). If you want something easier, I'd suggest sauerkraut (salt, cabbage and patience).
+
+Around one year ago (3rd of April 2020) I made a batch of kimchi, and I apparently took pictures. The color came out something like [this](images/kimchi_me1.jpg), that's what you're aiming for. The most recent batch looks something like [this](images/kimchi_me2.jpg) 
 
 Alright, that was it, see ya!
