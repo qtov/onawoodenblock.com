@@ -5,7 +5,7 @@ Tags: food, order
 Authors: Rexu
 Summary: Opinion on colinafarms first order
 
-So, after hearing a lot about colinafarms and their weekly (or bi-monthly) crate, I was like... I love crates and surprises, why the heck not!
+So, after hearing a lot about [colinafarms](https://colinafarms.ro/) and their weekly (or bi-monthly) crate, I was like... I love crates and surprises, why the heck not!
 
 I put an order for 75 ron every two weeks kind of package and today I received my very first package.
 What I got was 1kg of potatoes, 2 pcs celeriac, 4 packs of kale, 100g of rucola, 1 pack of spring onions, 1 piece green salad.
