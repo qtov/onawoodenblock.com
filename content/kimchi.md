@@ -10,11 +10,11 @@ It's great.
 
 That's all, see ya!
 
-Alright alright, how do you make kimchi. I'm by no means korean, but I like kimchi. And if I want to buy it from my local asian store... it's HELLISHLY expesive. Imagine 30-35 ron for 200-300g of kimchi. Where when I make my own, 20 ron max for around 3kg. Also, mine is way better, I'm serious.
+Alright alright, how do you make kimchi. I'm by no means a chef or anything, but I like kimchi. And if I want to buy it from my local asian store... it's HELLISHLY expesive. Imagine 30-35 ron for 200-300g of kimchi. Where when I make my own, 20 ron max for around 3kg. Also, mine is way better, I'm serious.
 
 There are a shit ton of kimchi recipes around the internet but I'll share with you my take on it and the experiences I've had with it. I usually skip sugar or any "empty" carbs when I cook. That's why never make a rice flour porridge for it, but you can definitely take that approach! For the rice flour alternative, [Maangchi](https://www.maangchi.com/) has a good [recipe](https://www.maangchi.com/recipe/easy-kimchi).
 
-The very first recipe I ever tried (and the one I am mostly going with) is from [Joshua Weismann](https://www.youtube.com/channel/UChBEbMKI1eCcejTtmI32UEw) and it was [this video](https://www.youtube.com/watch?v=aXhJcdXPyYI). His recipe is also on his blog ([https://www.joshuaweissman.com/post/kimchi](https://www.joshuaweissman.com/post/kimchi)).
+The very first kimchi recipe I tried (and the one I am mostly going with) was from [Joshua Weismann](https://www.youtube.com/channel/UChBEbMKI1eCcejTtmI32UEw) and it was [this video](https://www.youtube.com/watch?v=aXhJcdXPyYI). The recipe is also on his blog ([https://www.joshuaweissman.com/post/kimchi](https://www.joshuaweissman.com/post/kimchi)).
 
 What can easily be substituted in his recipe are:
 
