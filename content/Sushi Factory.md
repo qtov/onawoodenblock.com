@@ -13,7 +13,7 @@ And I did, quite fast apparently, and now they also make it free delivery from r
 
 Not a sponsor btw, not like anybody even reads it to sponsor, lol, but I think it's quite a good alternative compared to the HipMenu killer, foodpanda.
 
-Anyways, I bought sushi from [Sushi Factory](https://tazz.ro/cluj-napoca/sushi-factory/5165/partener) 50% off. What I took were...
+Anyways, I bought sushi from [Sushi Factory](https://tazz.ro/cluj-napoca/sushi-factory/5165/partener) and it was 50% off. What I took were...
 
 XL Rolls:
 
