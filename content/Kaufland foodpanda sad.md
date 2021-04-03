@@ -1,9 +1,9 @@
-Title: Kaufland foodpanda sad
+Title: Kaufland foodpanda is sad
 Date: 2021-04-04 00:18
 Category: Food
 Tags: food, order
 Authors: Rexu
-Summary: Kaufland through foodpanda is sad
+Summary: Kaufland through foodpanda is disappointing
 
 So, today I was like, "let's do a little order for milk and stuff" and kaufland on foodpanda had the lowest delivery cost for that, 9 ron.
 
