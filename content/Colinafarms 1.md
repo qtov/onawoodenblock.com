@@ -24,4 +24,4 @@ If you've got the money, definitely! They came to me green and lively, unlike th
 I'll update more if I think there's any need to do so, until then, see ya!
 
 UPDATE: I made a pic of the salad and the stew
-<img src="images/tuna_stew.jpg" data-action="zoom" width=800>
+<img src="images/tuna_stew.jpg" width=760>
