@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = 'Rexu'
-SITENAME = "On a Wooden Block - Blog"
-SITEURL = ''
+SITENAME = "On a Wooden Block"
+SITEURL = 'onawoodenblock.com'
 
 PATH = 'content'
 
