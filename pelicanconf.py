@@ -3,7 +3,7 @@
 
 AUTHOR = 'Rexu'
 SITENAME = "On a Wooden Block"
-SITEURL = 'onawoodenblock.com'
+SITEURL = ''
 
 PATH = 'content'
 
