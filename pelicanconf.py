@@ -37,7 +37,7 @@ STATIC_PATHS = ['images', 'extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, }
 
 # Plugins
-PLUGIN_PATHS = [get_python_lib()]
+PLUGIN_PATHS = ['/venv/Lib/site-packages', get_python_lib()]
 PLUGINS = [
     'pelican_image_process',
 ]
