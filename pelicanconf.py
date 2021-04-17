@@ -34,6 +34,6 @@ DEFAULT_PAGINATION = 10
 STATIC_PATHS = ['images', 'extra']
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
-    'extra/favicon.ico': {'path': 'favicon.png'},
+    'extra/favicon.png': {'path': 'favicon.png'},
     'extra/custom.css': {'path': 'custom.css'},
 }
