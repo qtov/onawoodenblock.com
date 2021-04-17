@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
-from distutils.sysconfig import get_python_lib
-
 AUTHOR = 'Rexu'
 SITENAME = "On a Wooden Block"
 SITEURL = ''
@@ -35,9 +33,3 @@ DEFAULT_PAGINATION = 10
 
 STATIC_PATHS = ['images', 'extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, }
-
-# Plugins
-PLUGIN_PATHS = ['/venv/Lib/site-packages', get_python_lib()]
-PLUGINS = [
-    'pelican_image_process',
-]
