@@ -10,13 +10,13 @@ My mom told me those things, and the only tea we'd ever drink was mint tea with 
 
 When I was a kid, I used to watch TV with my dad and from time to time there would be some Chinese movie where they'd drink tea, I liked the idea and look of it, but never put more thought into it.
 
-Somewhere in highschool I watched an anime called "Kuroshitsuji" and there was a scene where the master asks for tea from his butler, but not any tea, it was Earl Grey.  
+Somewhere in highschool I watched an anime called [Kuroshitsuji](https://myanimelist.net/anime/4898/Kuroshitsuji) and there was a scene where the master asks for tea from his butler, but not any tea, it was Earl Grey.  
 The butler goes in the basement, brings the tea and makes him a cup. Mind you, I have NEVER heard even once, the name of the tea. I never had any tangency with the subject of tea except from what I wrote above.
 
 I was thrilled, I have to try this I thought... But can I even find it in Romania? And how expensive such a thing can be? The name is posh af.
 
 In the not so distant future, I went to Kaufland with my mom in search of Earl Grey, it doesn't hurt to give it a shot, might actually find it in the supermarket.  
-Found the tea section and there it was... Earl Grey teabags, 2-3 ron.
+Found the tea section and there it was... [Dukat Earl Grey](/images/dukat_earl_grey.webp) teabags, 2-3 ron.
 
 What?! So cheap? I was both happy and scared, overly cheap things surely compromise a lot on quality.
 
@@ -40,7 +40,7 @@ Highschool ends and here comes university.
 I reach a time where I drink a few cups per day while working on projects and staying in front of my laptop.  
 I think to myself, I love tea, but if I have each cup with one to two teaspoons of sugar per day, it won't do well for me later on. So I completely remove the sugar, and surprisingly, I enjoy it. I grew to yearn for the bitter flavors of it. 
 
-My journey of collecting and trying out new teas does not stop. Years pass, I have a full cabinet worth of teas. Mostly teabags.
+My journey of collecting and trying out new teas does not stop. Months pass, I have a full cabinet worth of teas. Mostly teabags.
 
 Wanting to learn more about the types of tea and how they are made, I stumble on a Youtube channel called [Meileaf](https://www.youtube.com/channel/UCaHBABJFMRAtnKhQp2Cu5BQ), and on their video called [The 6 Types Of Tea](https://www.youtube.com/watch?v=EUuw5rqWkZU). I watch more of their videos and find out about a thing called "Gong Fu Tea", and I want to try it very much. They also have made me become a purist, back then [this video](https://www.youtube.com/watch?v=-fZclzJUhYg) didn't exist, but it's exactly the message I got from a lot of their videos.  
 It was around that time that my girlfriend moved from Hungary to Romania to live with me and started working at Demmers in Cluj.  
@@ -58,17 +58,17 @@ A very good book that thought me a lot about teas was [Tea: History, Terroirs, V
 Of course, my journey has not ended, I have to personally go to those countries, and try the teas, brewed in their local spring waters, freshly picked, freshly roasted, take part of the process, learn more and more.
 
 Because tea was such an important thing in my life, I started collecting teaware, gaiwans, cups, teapots.  
-And so, one day, looking for movies/series/anime about tea, I found it: [Hyouge Mono](https://myanimelist.net/anime/9996/Hyouge_Mono). It's an anime with tea, but the main focus is teaware. I was thrilled, what if... I make my own? I have a profound connection with tea, why shouldn't I share the connection with teaware.
+So, one day, I was looking for movies/series/anime about tea, and I found it: [Hyouge Mono](https://myanimelist.net/anime/9996/Hyouge_Mono). It's an anime with tea, but the main focus is teaware. I was thrilled by how they described teaware.  
+What if... I make my own? I have a profound connection with tea, why shouldn't I share the connection with teaware.
 
-And so, after months of looking, researching, I found a ceramic workshop in Cluj. I gathered my courage and paid a visit. I instantly became a regular.  
+And so, after a few weeks of looking, researching, I found a ceramic workshop in Cluj. I gathered my courage and paid a visit. I instantly became a regular.  
 My first cup (I'll talk about it in a later post) was a success in my opinion, and so I made cups over cups over cups. With that, I've found my purpose in life.  
-After I die, leave a few pieces of teaware that somebody will put his hands on and utter 3 words: "This is beautiful". I want to leave beauty behind.
+That after I die, I leave a few pieces of teaware that somebody will put his hands on and say "that's beautiful".
+That's what I want to leave behind, beauty in the form of a teacup.
 
-Unfortunately I can go to the workshop only once a week, and now because of some works around the area I can't go until the end of August. That is way too little, it's not enough to achieve my dreams, I want to spend tens of years, hours a day, practicing, I want to become the best version of myself, and that will be achieved only with hard work.
+Unfortunately I can go to the workshop only once a week, and now because of some works around the area I can't go until the end of August. That is way too little, it's not remotely enough to even have dreams, yet alone, achieve them, I want to spend tens of years, hours a day, practicing, that's the only way it can ever be good enough.
 
-And so, the end goal is, a studio of my own where I can spend hours a day, and a kiln. It will take a few years to achieve my dream, but I sure as hell won't give up.
-
-And with that, we reach the present, it remains to be seen what the future will bring.  
-Once I open a teaware shop, and I'm confident in the works I produce, I'll surely let everyone know.
+And so, the end goal is, a studio of my own where I can spend hours a day, and a kiln. And who knows, probably a teashop where people can enjoy drinking from my cups.  
+It will take quite a few years to achieve my dream, but it's a clear path.
 
 I hope it was a good read, see ya!
