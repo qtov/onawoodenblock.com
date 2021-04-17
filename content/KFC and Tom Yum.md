@@ -1,9 +1,9 @@
-Title: KFC and tom yum
+Title: KFC, bones and Tom Yum
 Date: 2021-03-28 23:10
 Category: Food
 Tags: food, order
 Authors: Rexu
-Summary: KFC and Tom Yum
+Summary: Ordered KFC, made some Tom Yum soup with the bones.
 
 So... Friday I had a strong desire for KFC. I went on foodpanda (cause Tazz doesn't have it) and looked to see which can get me the best deal for my money.
 

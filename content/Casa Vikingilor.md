@@ -1,4 +1,4 @@
-Title: Most dissapointing order of my life (Casa Vikingilor Hasdeu)
+Title: Most dissapointing order of my life
 Date: 2021-03-28 23:48
 Category: Food
 Tags: food, order

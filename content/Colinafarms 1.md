@@ -3,7 +3,7 @@ Date: 2021-03-24 20:21
 Category: Food
 Tags: food, order
 Authors: Rexu
-Summary: Opinion on colinafarms first order
+Summary: My very first order from colinafarms
 
 So, after hearing a lot about [colinafarms](https://colinafarms.ro/) and their weekly (or bi-monthly) crate, I was like... I love crates and surprises, why the heck not!
 
