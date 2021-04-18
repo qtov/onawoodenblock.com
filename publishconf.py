@@ -14,9 +14,9 @@ SITEURL = 'https://onawoodenblock.com'
 RELATIVE_URLS = False
 
 FEED_DOMAIN = SITEURL
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-FEED_ATOM = 'feeds/atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
+FEED_ALL_ATOM = '/feeds/all.atom.xml'
+FEED_ATOM = '/feeds/atom.xml'
+CATEGORY_FEED_ATOM = '/feeds/{slug}.atom.xml'
 FEED_MAX_ITEMS = 15
 
 DELETE_OUTPUT_DIRECTORY = True

@@ -20,7 +20,7 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (
     ('email: rexu@onawoodenblock.com', 'mailto:rexu@onawoodenblock.com'),
-    ('RSS', 'feeds/atom.xml'),
+    ('RSS', '/feeds/atom.xml'),
 )
 
 # Social widget
