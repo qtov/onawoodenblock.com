@@ -21,4 +21,4 @@ Next workshop comes, I carefully sandpaper the cup and make the form of another 
 And so, another two weeks pass, my cup was fired at 850&deg;C and now it's time to glaze it. Because it's my very first cup and I want to see the pattern, I use a transparent glaze.  
 Another two weeks, my cup is finally ready. I can finally take it home and enjoy it.
 
-<img src="images/first_cup.jpg" width="760">
+<img src="/images/first_cup.jpg" width="760">
