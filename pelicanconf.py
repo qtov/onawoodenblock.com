@@ -21,10 +21,10 @@ AUTHOR_FEED_RSS = None
 DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = (
     ('Home', '/'),
-    ('News', '/news.html'),
-    ('Tea', '/tea.html'),
-    ('Teaware', '/teaware.html'),
-    ('Food', '/food.html'),
+    ('News', '/category/news.html'),
+    ('Tea', '/category/tea.html'),
+    ('Teaware', '/category/teaware.html'),
+    ('Food', '/category/food.html'),
 )
 
 # Blogroll
