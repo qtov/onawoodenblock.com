@@ -1,14 +1,14 @@
 Title: My tea journey
 Date: 2021-04-17 13:00
 Category: Tea
-Tags: about
+Tags: about, tea, teaware
 Authors: Rexu
 Summary: The story of tea and me.
 
 Throughout my life, the only thing I knew about tea was that green tea is for losing weight and black tea is bitter.  
 My mom told me those things, and the only tea we'd ever drink was mint tea with a ton of lemon and honey. Nowadays, thinking back, it was kind of a hot lemonade.
 
-When I was a kid, I used to watch TV with my dad and from time to time there would be some Chinese movie where they'd drink tea, I liked the idea and look of it, but never put more thought into it.
+When I was a kid, I used to watch TV with my dad and from time to time there would be some Chinese movie where they'd drink tea. I liked the idea and look of it, but never put more thought into it.
 
 Somewhere in highschool I watched an anime called [Kuroshitsuji](https://myanimelist.net/anime/4898/Kuroshitsuji) and there was a scene where the master asks for tea from his butler, but not any tea, it was Earl Grey.  
 The butler goes in the basement, brings the tea and makes him a cup. Mind you, I have NEVER heard even once, the name of the tea. I never had any tangency with the subject of tea except from what I wrote above.
@@ -30,7 +30,7 @@ What if I add some sugar? I put 1-2 teaspoons of sugar and tried it again... WOA
 A few months pass, I become increasingly more into tea (with sugar) and buy almost every type of tea from the supermarkets to try it out.  
 Lipton, Twinnings, Dukat, Taylors of Harrogate and all those big/little brands, I've tried quite a number, I liked them. I tried senchas, Earl Grey, Lady Grey, Breakfast Tea, gunpowder, and the list goes on.
 
-Around the 12th grade (last year of highschool) I meet somebody on the internet, on a site for anime quotes. He was looking for people to help with the coding of the site. php, HTML and CSS, the things I had to learn that year. I thought it would be a good learning experience.
+Around the 12th grade (last year of highschool) I met somebody on the internet, on a site for anime quotes. He was looking for people to help with the coding of the site. php, HTML and CSS, the things I had to learn that year. I thought it would be a good learning experience.
 
 Talking/playing/coding for a few months with him, we became good friends, and I found out that he drinks tea as well, but only thyme tea.  
 In the past I used to want to like the things the people I looked up to liked. And because I looked up to this person, tea became an even more important part of my life.
@@ -47,7 +47,7 @@ It was around that time that my girlfriend moved from Hungary to Romania to live
 Because of Demmers I had the chance to try good loose leaf tea, and not the prepackaged, stale, old (not in a good way) teas from supermarkets. For that, I thank them.  
 From them also, I bought my first gaiwan, a simple white porcelain, and so I had the chance to try gong-fu, from that moment on Western style tea disappeared from my life.
 
-This was not enough, I wanted more, what if Demmers is not the gold standard of teas, what if there are better teas out there, I can't just blindly accept that I have found the end of my tea journey.
+This was not enough, I wanted more. What if Demmers is not the gold standard of teas, what if there are better teas out there? I can't just blindly accept that I have found the end of my tea journey.
 
 Fortunately it was not the end, [white2tea](https://white2tea.com/), [Yunnan Sourcing](https://yunnansourcing.com/) (when they used to ship to Romania, last time I looked they didn't anymore), [NioTeas](https://nioteas.com/), [Hibiki-an](https://www.hibiki-an.com/), [eco-cha](https://eco-cha.com/) and the list goes on and on.  
 Don't get me wrong though, Demmers doesn't have bad teas. They're affordable and you can find them in Cluj. And if your life doesn't depend on tea, they're a very good choice.  
@@ -59,14 +59,14 @@ Of course, my journey has not ended, I have to personally go to those countries,
 
 Because tea was such an important thing in my life, I started collecting teaware, gaiwans, cups, teapots.  
 So, one day, I was looking for movies/series/anime about tea, and I found it: [Hyouge Mono](https://myanimelist.net/anime/9996/Hyouge_Mono). It's an anime with tea, but the main focus is teaware. I was thrilled by how they described teaware.  
-What if... I make my own? I have a profound connection with tea, why shouldn't I share the connection with teaware.
+What if... I make my own? I have a profound connection with tea, why shouldn't I share the connection with teaware?
 
 And so, after a few weeks of looking, researching, I found a ceramic workshop in Cluj. I gathered my courage and paid a visit. I instantly became a regular.  
 My first cup (I'll talk about it in a later post) was a success in my opinion, and so I made cups over cups over cups. With that, I've found my purpose in life.  
 That after I die, I leave a few pieces of teaware that somebody will put his hands on and say "that's beautiful".
 That's what I want to leave behind, beauty in the form of a teacup.
 
-Unfortunately I can go to the workshop only once a week, and now because of some works around the area I can't go until the end of August. That is way too little, it's not remotely enough to even have dreams, yet alone, achieve them, I want to spend tens of years, hours a day, practicing, that's the only way it can ever be good enough.
+Unfortunately I can go to the workshop only once a week, and now because of some works around the area I can't go until the end of August. That is way too little, it's not remotely enough to even have dreams, yet alone, achieve them. I want to spend tens of years, hours a day, practicing. That's the only way it can ever be good enough.
 
 And so, the end goal is, a studio of my own where I can spend hours a day, and a kiln. And who knows, probably a teashop where people can enjoy drinking from my cups.  
 It will take quite a few years to achieve my dream, but it's a clear path.
