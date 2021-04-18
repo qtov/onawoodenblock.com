@@ -18,7 +18,10 @@ I make a rectangle using white, brown and some black, and start pressing it into
 With that, I await the next workshop which is two weeks later. The workshop used to be held twice a month before transitioning to twice a week.
 
 Next workshop comes, I carefully sandpaper the cup and make the form of another cup (which I probably won't talk about, didn't come out that great).  
-And so, another two weeks pass, my cup was fired at 850&deg;C and now it's time to glaze it. Because it's my very first cup and I want to see the pattern, I use a transparent glaze.  
-Another two weeks, my cup is finally ready. I can finally take it home and enjoy it.
+And so, another two weeks pass, my cup was fired at 850&deg;C and now it's time to glaze it. Because it's my very first cup and I want to see the pattern so I use a transparent glaze.  
+Another two weeks, my cup is fired at 1200&deg;C and it's finally ready. I can take it home and enjoy it.
+
+That was the story, it took quite a while to finish the cup, and I put at least 5 hours in.  
+Alright, see ya!
 
 <img src="/images/first_cup.jpg" width="760">
