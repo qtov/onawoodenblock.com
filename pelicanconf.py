@@ -18,7 +18,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('email: rexu@onawoodenblock.com', 'mailto:rexu@onawoodenblock.com'),)
+LINKS = (
+    ('email: rexu@onawoodenblock.com', 'mailto:rexu@onawoodenblock.com'),
+    ('RSS', "feeds/atom.xml"),
+)
 
 # Social widget
 # SOCIAL = (('Instagram (mostly pottery)', 'https://www.instagram.com/kvazhir/'),)
