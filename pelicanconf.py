@@ -17,10 +17,22 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+# Menu
+DISPLAY_CATEGORIES_ON_MENU = False
+MENUITEMS = (
+    ('Home', '/'),
+    ('News', '/news.html'),
+    ('Tea', '/tea.html'),
+    ('Teaware', '/teaware.html'),
+    ('Food', '/food.html'),
+)
+
 # Blogroll
 LINKS = (
     ('email: rexu@onawoodenblock.com', 'mailto:rexu@onawoodenblock.com'),
 )
+
+LANDING_PAGE_TITLE = "Welcome " + SITENAME
 
 # Social widget
 # SOCIAL = (('Instagram (mostly pottery)', 'https://www.instagram.com/kvazhir/'),)
