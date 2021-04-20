@@ -64,7 +64,7 @@ How long does it stay in the fridge? I'd say definitely at least 6 months. I had
 What can you do with the kimchi? I usually eat from it when making rice bowls, stir-fry and when I need an acidic companion to some dishes like french fries, jajangmyeon, dumplings.
 It goes on almost everything, it's seriously delicious.
 
-How does fermentation work? We'll explore that some other time, I have to talk about it quite a bit, I'm in love with it. But I can't ever explain it better than the book "The Art of Fermentation" by Sandor Katz.
+How does fermentation work? We'll explore that some other time, I have to talk about it quite a bit, I'm in love with it. But I can't ever explain it better than the book [The Art of Fermentation by Sandor Katz](https://www.bookdepository.com/Art-Fermentation-Sandor-Ellix-Katz/9781603582865).
 
 That's my take on kimchi, it's worth trying it at least once in your life, I fell in love instantly (I usually fall in love with fermented foods, so it's not new). If you want something easier, I'd suggest sauerkraut (salt, cabbage and patience).
 
