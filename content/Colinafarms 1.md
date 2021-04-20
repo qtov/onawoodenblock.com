@@ -18,7 +18,7 @@ I filled myself a bowl of leaves and I munched on them like a rabbit, I feel lik
 
 Tomorrow I plan on making some [chamchi jjigae (spicy tuna stew)](https://www.maangchi.com/recipe/chamchi-jjigae) and some rice, pack everything in some of the leaves and enjoy the hell out of it. I might blanch the kale, because it's quite hard, but I don't think the green salad needs any blanching. The stew is very easy to make, but you'll need gochujang (some sweet spicy chilli paste), which can be found at TasteOfAsia (Cluj) or [iwok.ro](https://iwok.ro/produs/pasta-de-ardei-iute-coreeana-gochujang-sempio-500/). You might find other shops, better price, you know.
 
-But all in all, is it worth it? 75 ron for 15 ron worth of veggies (non-bio, normal)? Eh.
+But all in all, is it worth it? 75 ron for around 30 ron worth of veggies (non-bio, normal)? Eh.
 If you've got the money, definitely! They came to me green and lively, unlike the ones I find in the supermarket, lacking of life. Also, to mention, I'm not going to the market cause I don't really leave my house, lol.
 
 I'll update more if I think there's any need to do so, until then, see ya!

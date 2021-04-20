@@ -32,8 +32,6 @@ LINKS = (
     ('email: rexu@onawoodenblock.com', 'mailto:rexu@onawoodenblock.com'),
 )
 
-LANDING_PAGE_TITLE = "Welcome " + SITENAME
-
 # Social widget
 # SOCIAL = (('Instagram (mostly pottery)', 'https://www.instagram.com/kvazhir/'),)
 
