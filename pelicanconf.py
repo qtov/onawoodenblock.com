@@ -29,7 +29,7 @@ MENUITEMS = (
 
 # Blogroll
 LINKS = (
-    ('email: rexu@onawoodenblock.com', 'mailto:rexu@onawoodenblock.com'),
+    ('rexu@onawoodenblock.com', 'mailto:rexu@onawoodenblock.com'),
 )
 
 # Social widget
