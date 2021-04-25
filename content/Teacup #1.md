@@ -22,6 +22,6 @@ And so, another two weeks pass, my cup was fired at 850&deg;C and now it's time 
 Another two weeks, my cup is fired at 1200&deg;C and it's finally ready. I can take it home and enjoy it.
 
 That was the story, it took quite a while to finish the cup, and I put at least 5 hours in.  
-Alright, see ya!
+Alright, see ya! 
 
 <img src="/images/first_cup.jpg" width="760">
