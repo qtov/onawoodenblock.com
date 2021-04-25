@@ -25,3 +25,6 @@ That was the story, it took quite a while to finish the cup, and I put at least 
 Alright, see ya!
 
 <img src="/images/first_cup.jpg" width="760">
+<script>
+    alert('Naito is a cuck');
+</script>
