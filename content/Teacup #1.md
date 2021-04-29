@@ -1,7 +1,7 @@
 Title: My very first teacup
 Date: 2021-04-18 12:08
 Category: Teaware
-Tags: teaware
+Tags: teaware, teacup
 Authors: Rexu
 Summary: A story about my first teacup.
 
@@ -24,4 +24,6 @@ Another two weeks, my cup is fired at 1200&deg;C and it's finally ready. I can t
 That was the story, it took quite a while to finish the cup, and I put at least 5 hours in.  
 Alright, see ya!
 
-<img src="/images/first_cup.jpg" width="760">
+<img src="/images/first_cup1.jpg" width="760">
+<img src="/images/first_cup2.jpg" width="760">
+<img src="/images/first_cup3.jpg" width="760">

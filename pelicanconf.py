@@ -25,6 +25,7 @@ MENUITEMS = (
     ('Tea', '/category/tea.html'),
     ('Teaware', '/category/teaware.html'),
     ('Food', '/category/food.html'),
+    ('Tech', '/category/tech.html'),
 )
 
 # Blogroll
