@@ -19,7 +19,7 @@ First try, to see what can iron oxide and waterglass do.
 
 <img src="/images/waterglass_test.jpg" width="760">
 
-And here is the second. After seeing what I can do with it, this is one of the works I'm proud of.
+And here is the second cup. After seeing what I can do with it, this is one of the works I'm proud of.
 
 <img src="/images/chawan_waterglass.jpg" width="760">
 
