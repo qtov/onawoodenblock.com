@@ -19,7 +19,7 @@ When you start the editor you're put in "normal" mode.
 You press `i`/`I`/`a`/`A`/`o`/`O` and you're put in "insert" mode where you... well... insert.  
 To leave insert mode, you press `escape`, and you'll be put you back in "normal" mode.  
 You press `v`/`V`/`ctrl+v` and you're put in "visual" mode. With visual mode, you select without using your mouse.  
-You press `:` to enter command mode.
+You press `:` to enter command-line mode.
 
 Imagine you want to select 5 lines `V5j`  
 Imagine you want to select upwards without losing what you've already selected `o5k`
@@ -87,7 +87,7 @@ My point is, vim is superior to the traditional way of editing text (aka only "i
 
 If you entered vim and can't exit it, you can exit it from normal mode or command mode.  
 The traditional way is in normal mode you press `:q` and enter.  
-`:` stands for command mode, `q` stands for quit. Also `w` stands for write, so if you want to save and exit `:wq`, or `:x` (x is a bit different though, it won't write if no change occured).  
+`:` stands for command-line mode, `q` stands for quit. Also `w` stands for write, so if you want to save and exit `:wq`, or `:x` (x is a bit different though, it won't write if no change occured).  
 If you want to quit without saving `:q!`.  
 Now you can also quit or save without pressing `:`, which is `ZZ` (equivalent to `:x`) or `ZQ` (equivalent to `:q!`). 
 
