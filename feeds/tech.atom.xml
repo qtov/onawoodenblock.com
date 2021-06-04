@@ -10,7 +10,7 @@ When you start the editor you're put in "normal" mode.&lt;br&gt;
 You press &lt;code&gt;i&lt;/code&gt;/&lt;code&gt;I&lt;/code&gt;/&lt;code&gt;a&lt;/code&gt;/&lt;code&gt;A&lt;/code&gt;/&lt;code&gt;o&lt;/code&gt;/&lt;code&gt;O&lt;/code&gt; and you're put in "insert" mode where you... well... insert.&lt;br&gt;
 To leave insert mode, you press &lt;code&gt;escape&lt;/code&gt;, and you'll be put you back in "normal" mode.&lt;br&gt;
 You press &lt;code&gt;v&lt;/code&gt;/&lt;code&gt;V&lt;/code&gt;/&lt;code&gt;ctrl+v&lt;/code&gt; and you're put in "visual" mode. With visual mode, you select without using your mouse.&lt;br&gt;
-You press &lt;code&gt;:&lt;/code&gt; to enter command mode.&lt;/p&gt;
+You press &lt;code&gt;:&lt;/code&gt; to enter command-line mode.&lt;/p&gt;
 &lt;p&gt;Imagine you want to select 5 lines &lt;code&gt;V5j&lt;/code&gt;&lt;br&gt;
 Imagine you want to select upwards without losing what you've already selected &lt;code&gt;o5k&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&amp;emsp;The main point of vim is... stop using your mouse, it's a pain in the ass to move from keyboard to mouse to keyboard to mouse again and again when everything is so easy to do without the mouse.&lt;br&gt;
@@ -66,7 +66,7 @@ There's also &lt;code&gt;ctrl+o&lt;/code&gt;/&lt;code&gt;ctrl+i&lt;/code&gt; to 
 &lt;p&gt;My point is, vim is superior to the traditional way of editing text (aka only "insert" mode).&lt;/p&gt;
 &lt;p&gt;If you entered vim and can't exit it, you can exit it from normal mode or command mode.&lt;br&gt;
 The traditional way is in normal mode you press &lt;code&gt;:q&lt;/code&gt; and enter.&lt;br&gt;
-&lt;code&gt;:&lt;/code&gt; stands for command mode, &lt;code&gt;q&lt;/code&gt; stands for quit. Also &lt;code&gt;w&lt;/code&gt; stands for write, so if you want to save and exit &lt;code&gt;:wq&lt;/code&gt;, or &lt;code&gt;:x&lt;/code&gt; (x is a bit different though, it won't write if no change occured).&lt;br&gt;
+&lt;code&gt;:&lt;/code&gt; stands for command-line mode, &lt;code&gt;q&lt;/code&gt; stands for quit. Also &lt;code&gt;w&lt;/code&gt; stands for write, so if you want to save and exit &lt;code&gt;:wq&lt;/code&gt;, or &lt;code&gt;:x&lt;/code&gt; (x is a bit different though, it won't write if no change occured).&lt;br&gt;
 If you want to quit without saving &lt;code&gt;:q!&lt;/code&gt;.&lt;br&gt;
 Now you can also quit or save without pressing &lt;code&gt;:&lt;/code&gt;, which is &lt;code&gt;ZZ&lt;/code&gt; (equivalent to &lt;code&gt;:x&lt;/code&gt;) or &lt;code&gt;ZQ&lt;/code&gt; (equivalent to &lt;code&gt;:q!&lt;/code&gt;). &lt;/p&gt;
 &lt;p&gt;Now, if you want to learn it, there's a good unix command (once you installed vim) called &lt;code&gt;vimtutor&lt;/code&gt;. It's there in wsl or any unix based operating system, might even be on windows if you install gvim.&lt;br&gt;
