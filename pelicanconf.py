@@ -1,8 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 AUTHOR = 'Rexu'
-SITENAME = "On a Wooden Block"
+SITENAME = 'On a Wooden Block'
+SITESUBTITLE = 'Tea freak, teaware admirer and keyboard masher.'
 SITEURL = ''
+
+THEME = 'Peli-Kiera'
+PLUGIN_PATHS = ['pelican-plugins']
+PLUGINS = ['readtime', 'neighbors']
 
 PATH = 'content'
 
@@ -25,7 +30,7 @@ MENUITEMS = (
     ('Tea', '/category/tea.html'),
     ('Teaware', '/category/teaware.html'),
     ('Food', '/category/food.html'),
-    # ('Tech', '/category/tech.html'),
+    ('Tech', '/category/tech.html'),
 )
 
 # Blogroll
