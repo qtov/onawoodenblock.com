@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>On a Wooden Block - Why is Vim so important for programmers.</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"/>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab|Ruda"/>
+        <link rel="stylesheet" type="text/css" href="https://onawoodenblock.com/theme/css/main.css"/>
+            <link href="https://onawoodenblock.com/
+feeds/all.atom.xml"
+                  type="application/atom+xml" rel="alternate" title="On a Wooden Block Atom Feed"/>
+
+<meta name="tags" content="editor" />
+<meta name="tags" content="vim" />
+<meta name="tags" content="sublime" />
+</head>
+<body>
+<style>.github-corner:hover .octo-arm {
+    animation: octocat-wave 560ms ease-in-out
+}
+@keyframes octocat-wave {
+    0%, 100% {
+        transform: rotate(0)
+    }
+    20%, 60% {
+        transform: rotate(-25deg)
+    }
+    40%, 80% {
+        transform: rotate(10deg)
+    }
+}
+@media (max-width: 500px) {
+    .github-corner:hover .octo-arm {
+        animation: none
+    }
+
+    .github-corner .octo-arm {
+        animation: octocat-wave 560ms ease-in-out
+    }
+}</style><div id="container">
+    <header>
+        <h1><a href="https://onawoodenblock.com/">On a Wooden Block</a></h1>
+            <ul class="social-media">
+                    <li><a href="https://onawoodenblock.com/
+feeds/all.atom.xml"
+                           type="application/atom+xml" rel="alternate"><i class="fa fa-rss fa-lg"
+                                                                          aria-hidden="true"></i></a></li>
+            </ul>
+        <p><em>Tea freak, teaware admirer and keyboard masher.</em></p>
+    </header>
+    <nav>
+        <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/category/news.html">News</a></li>
+                <li><a href="/category/tea.html">Tea</a></li>
+                <li><a href="/category/teaware.html">Teaware</a></li>
+                <li><a href="/category/food.html">Food</a></li>
+                <li><a href="/category/tech.html">Tech</a></li>
+        </ul>
+    </nav>
+<main>
+    <article>
+        <h1>Why is Vim so important for programmers.</h1>
+        
+        <aside>
+            <ul>
+                <li>
+                    <time datetime="2021-06-04 17:43:00+03:00">Jun 04, 2021</time>
+                </li>
+                <li> min read</li>
+                <li>
+                    Categories:
+                    <a href="https://onawoodenblock.com/category/tech.html"><em>tech</em></a>
+                </li>
+                <li>
+                    Tags:
+                    <a href="https://onawoodenblock.com/tag/editor.html"><em>#editor</em></a>
+                    <a href="https://onawoodenblock.com/tag/vim.html"><em>#vim</em></a>
+                    <a href="https://onawoodenblock.com/tag/sublime.html"><em>#sublime</em></a>
+                </li>
+            </ul>
+        </aside>
+        <p>&emsp;So then, why is Vim so goddamn great? And why do a lot of programmers talk about it?
+There are a ton of articles as to why Vim is indispensable, but I'm gonna tell it to you simple and easy.</p>
+<p>&emsp;I don't use vim, I don't like vim. Vim is hard and it takes too much to make it how I want.
+I also use Windows mostly, so I find any vim implementation to have a slow startup and if I want to use the terminal it's sometimes buggy (looking at you cmd).</p>
+<p>&emsp;That's why I use is Sublime Text with the NeoVintageous plugin.
+I get the rich plugin ecosystem of sublime, with the advantage of vim (in 99% of cases).</p>
+<p>How does vim work? Well, vim has a thing called modes.<br>
+When you start the editor you're put in "normal" mode.<br>
+You press <code>i</code>/<code>I</code>/<code>a</code>/<code>A</code>/<code>o</code>/<code>O</code> and you're put in "insert" mode where you... well... insert.<br>
+To leave insert mode, you press <code>escape</code>, and you'll be put you back in "normal" mode.<br>
+You press <code>v</code>/<code>V</code>/<code>ctrl+v</code> and you're put in "visual" mode. With visual mode, you select without using your mouse.<br>
+You press <code>:</code> to enter command mode.</p>
+<p>Imagine you want to select 5 lines <code>V5j</code><br>
+Imagine you want to select upwards without losing what you've already selected <code>o5k</code></p>
+<p>&emsp;The main point of vim is... stop using your mouse, it's a pain in the ass to move from keyboard to mouse to keyboard to mouse again and again when everything is so easy to do without the mouse.<br>
+Also, why would you ever want to be in "insert" mode all the time, you lose so many possibilities for movement if you're 24/7 in insert mode.</p>
+<p>&emsp;Traditional text editors work like this, they start in "insert" mode and then you have only a limited number of possible movements.<br>
+You can move with the mouse, select with the mouse and drag and drop (not like anyone uses that... right?).<br>
+Then you have the arrow keys, end/home, page up/page down, ctrl+arrow keys (in some editors even alt+arrow keys), and that's all.<br>
+And if you want to select, use those movements while holding shift, which is quite painful from time to time. You can of course, select with mouse. With vim, you just enter insert mode and use all the movement keys like you'd do normally.</p>
+<p>&emsp;But what if I told you, that you can use vim in any, or better said in most of the modern editors.<br>
+Most of them will already have a plugin that emulates or even integrates neovim (vim rewritten by other people).</p>
+<p>Every key in normal mode does a different thing. For example, if you want to move left down up right you use h j k l. You can also use arrow keys, nobody stops you.<br>
+To enter insert mode, as I said, there are at least 6 keys.</p>
+<ul>
+<li><code>o</code> inserts a new line below and puts you into insert mode</li>
+<li><code>O</code> inserts a new line above and puts you into insert mode</li>
+<li><code>i</code> starts insert mode before the cursor</li>
+<li><code>a</code> starts insert mode after the cursor</li>
+<li><code>I</code> stars insert mode at the beginning of the line</li>
+<li><code>A</code> starts insert mode at the end of the line</li>
+</ul>
+<p>&emsp;Vim also makes those keys easy to remember. And once your get over your initial fear of learning vim, you won't be able to live without it, seriously.<br>
+Vim does commands, and those commands are easy to compose.<br>
+To delete one line you use <code>dd</code>, what if you want to delete 5 lines? <code>5dd</code><br>
+What if you want to delete 5 lines downwards <code>5dd</code> (same as <code>5dd</code>, <code>d4j</code>).<br>
+What about upwards <code>d4k</code>/<code>4dk</code> (4 is not a mistake, I'll explain). Those commands translate to:</p>
+<ul>
+<li><code>dd</code> means delete whole line</li>
+<li><code>&lt;number&gt;&lt;command&gt;</code> (<code>5dd</code>) means repeat the command 5 times. Aka, delete 5 lines.</li>
+<li><code>d</code> is the prefix for a command, that's why when you just press <code>d</code> in normal mode, it doesn't do anything until you press another key (or <code>escape</code> to cancel). If you press <code>d</code> in visual mode when you have already selected something, that will simply delete the selected text.</li>
+<li><code>d4j</code> now, why 4? Well, when you do <code>dj</code> it deletes the current line AND the line below. It literally translates to "delete" this line and the line below (for <code>d4j</code> it's this line and the 4 lines below). If you do <code>4j</code> it'll move you 4 lines below, exactly where all of those lines would be deleted.</li>
+</ul>
+<p>Instead of h j k l you can use arrow keys, but it's easier to have your hands on hjkl.</p>
+<p>Now... I lied, <code>d</code> doesn't delete, but it's easy to remember it as <code>d</code>elete. It actually cuts text, and it puts it in the "unnamed register". Now, I won't talk about registers because the extensions usually use the system clipboard which is the best usecase in my opinion. You can paste in vim with <code>p</code> (paste after cursor)/<code>P</code> (paste before cursor).</p>
+<p>You can move not just letters, but words as well.<br>
+For example:</p>
+<ul>
+<li><code>w</code> jump to the start of the next word</li>
+<li><code>W</code> jump to the start of the next word (ignore punctuation)</li>
+<li><code>e</code> jump to the end of the words</li>
+<li><code>E</code> jump to the end of the words (ignore punctuation)</li>
+<li><code>b</code> jump to the beginning of the words</li>
+<li><code>B</code> jump to the beginning of the words (ignore punctuation)</li>
+</ul>
+<p>You can also move by paragraphs <code>{</code>/<code>}</code>, move to matching paranthesis/brackets <code>%</code>.</p>
+<p>You can also use <code>d</code>elete, <code>y</code>ank (copy), <code>c</code>hange (same as delete but puts you in insert mode afterwards), using the movement commands. <code>d5w</code> (delete 5 words), <code>d5b</code> (delete 5 words backwards).</p>
+<p>And my favourite thing in vim, <code>i</code>n and <code>a</code>round.<br>
+Assume you have a <code>function foo(var_a, var_b, var_c)</code> and your cursor is on <code>b</code> from <code>var_b</code>.<br>
+You want to get rid of all parameters and rewrite them <code>ci(</code>, which translates to "change in  ()", what if I want to also delete the paranthesis? <code>ca(</code> "change around ()".</p>
+<p>I have the word <code>very_long_word_holy_guacamole</code>, and I my cursor is on <code>w</code> from <code>word</code>. Without vim I'd do <code>ctrl+right ctrl+backspace</code> or <code>ctrl+right shift+ctrl+left delete/backspace</code>, with vim I do <code>ciw</code> "change in word".<br>
+Every movement command can be used in combination with <code>d</code>elete, <code>y</code>ank, <code>c</code>hange, <code>v</code>isual, etc. Every command can be combined with the movement keys.
+Now then, all of those were written from memory, it's easy to remember the commands once you use them, and it's a heck of a lot of fun doing so.<br>
+There's also <code>ctrl+o</code>/<code>ctrl+i</code> to move to last cursor position and back.</p>
+<p>My point is, vim is superior to the traditional way of editing text (aka only "insert" mode).</p>
+<p>Now, if you want to learn it, there's a good unix command (once you installed vim) called <code>vimtutor</code>. It's there in wsl or any unix based operating system, might even be on windows if you install gvim.<br>
+If you don't want to learn it <code>¯\_(ツ)_/¯</code></p>
+    </article>
+    <section class="post-nav">
+        <div id="left-page">
+            <div id="left-link">
+            </div>
+        </div>
+        <div id="right-page">
+            <div id="right-link">
+                <a href="https://onawoodenblock.com/i-love-cracks.html">I love cracks. </a>
+                <div id="right-arrow"><i class="fa fa-chevron-circle-right"></i></div>
+            </div>
+        </div>
+    </section>
+    <div>
+    </div>
+</main>
+    <footer>
+        <h6>
+            Rendered by <a href="http://getpelican.com/">Pelican</a> &nbsp;&bull;&nbsp; Theme by <a
+                href="https://github.com/aleylara/Peli-Kiera">Peli-Kiera</a> &nbsp;&bull;&nbsp; Copyright
+                &copy &nbsp;&#8209;&nbsp; Rexu         </h6>
+    </footer>
+</div>
+</body>
+</html>

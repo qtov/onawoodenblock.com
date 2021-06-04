@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>On a Wooden Block - tech</title><link href="https://onawoodenblock.com/" rel="alternate"></link><link href="https://onawoodenblock.com/feeds/tech.atom.xml" rel="self"></link><id>https://onawoodenblock.com/</id><updated>2021-06-04T17:43:00+03:00</updated><subtitle>Tea freak, teaware admirer and keyboard masher.</subtitle><entry><title>Why is Vim so important for programmers.</title><link href="https://onawoodenblock.com/why-is-vim-so-important-for-programmers.html" rel="alternate"></link><published>2021-06-04T17:43:00+03:00</published><updated>2021-06-04T17:43:00+03:00</updated><author><name>Rexu</name></author><id>tag:onawoodenblock.com,2021-06-04:/why-is-vim-so-important-for-programmers.html</id><summary type="html">&lt;p&gt;Why do I think vim is the greatest tool for any programmer.&lt;/p&gt;</summary><content type="html">&lt;p&gt;&amp;emsp;So then, why is Vim so goddamn great? And why do a lot of programmers talk about it?
+There are a ton of articles as to why Vim is indispensable, but I'm gonna tell it to you simple and easy.&lt;/p&gt;
+&lt;p&gt;&amp;emsp;I don't use vim, I don't like vim. Vim is hard and it takes too much to make it how I want.
+I also use Windows mostly, so I find any vim implementation to have a slow startup and if I want to use the terminal it's sometimes buggy (looking at you cmd).&lt;/p&gt;
+&lt;p&gt;&amp;emsp;That's why I use is Sublime Text with the NeoVintageous plugin.
+I get the rich plugin ecosystem of sublime, with the advantage of vim (in 99% of cases).&lt;/p&gt;
+&lt;p&gt;How does vim work? Well, vim has a thing called modes.&lt;br&gt;
+When you start the editor you're put in "normal" mode.&lt;br&gt;
+You press &lt;code&gt;i&lt;/code&gt;/&lt;code&gt;I&lt;/code&gt;/&lt;code&gt;a&lt;/code&gt;/&lt;code&gt;A&lt;/code&gt;/&lt;code&gt;o&lt;/code&gt;/&lt;code&gt;O&lt;/code&gt; and you're put in "insert" mode where you... well... insert.&lt;br&gt;
+To leave insert mode, you press &lt;code&gt;escape&lt;/code&gt;, and you'll be put you back in "normal" mode.&lt;br&gt;
+You press &lt;code&gt;v&lt;/code&gt;/&lt;code&gt;V&lt;/code&gt;/&lt;code&gt;ctrl+v&lt;/code&gt; and you're put in "visual" mode. With visual mode, you select without using your mouse.&lt;br&gt;
+You press &lt;code&gt;:&lt;/code&gt; to enter command mode.&lt;/p&gt;
+&lt;p&gt;Imagine you want to select 5 lines &lt;code&gt;V5j&lt;/code&gt;&lt;br&gt;
+Imagine you want to select upwards without losing what you've already selected &lt;code&gt;o5k&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&amp;emsp;The main point of vim is... stop using your mouse, it's a pain in the ass to move from keyboard to mouse to keyboard to mouse again and again when everything is so easy to do without the mouse.&lt;br&gt;
+Also, why would you ever want to be in "insert" mode all the time, you lose so many possibilities for movement if you're 24/7 in insert mode.&lt;/p&gt;
+&lt;p&gt;&amp;emsp;Traditional text editors work like this, they start in "insert" mode and then you have only a limited number of possible movements.&lt;br&gt;
+You can move with the mouse, select with the mouse and drag and drop (not like anyone uses that... right?).&lt;br&gt;
+Then you have the arrow keys, end/home, page up/page down, ctrl+arrow keys (in some editors even alt+arrow keys), and that's all.&lt;br&gt;
+And if you want to select, use those movements while holding shift, which is quite painful from time to time. You can of course, select with mouse. With vim, you just enter insert mode and use all the movement keys like you'd do normally.&lt;/p&gt;
+&lt;p&gt;&amp;emsp;But what if I told you, that you can use vim in any, or better said in most of the modern editors.&lt;br&gt;
+Most of them will already have a plugin that emulates or even integrates neovim (vim rewritten by other people).&lt;/p&gt;
+&lt;p&gt;Every key in normal mode does a different thing. For example, if you want to move left down up right you use h j k l. You can also use arrow keys, nobody stops you.&lt;br&gt;
+To enter insert mode, as I said, there are at least 6 keys.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;o&lt;/code&gt; inserts a new line below and puts you into insert mode&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;O&lt;/code&gt; inserts a new line above and puts you into insert mode&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;i&lt;/code&gt; starts insert mode before the cursor&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;a&lt;/code&gt; starts insert mode after the cursor&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;I&lt;/code&gt; stars insert mode at the beginning of the line&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;A&lt;/code&gt; starts insert mode at the end of the line&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;emsp;Vim also makes those keys easy to remember. And once your get over your initial fear of learning vim, you won't be able to live without it, seriously.&lt;br&gt;
+Vim does commands, and those commands are easy to compose.&lt;br&gt;
+To delete one line you use &lt;code&gt;dd&lt;/code&gt;, what if you want to delete 5 lines? &lt;code&gt;5dd&lt;/code&gt;&lt;br&gt;
+What if you want to delete 5 lines downwards &lt;code&gt;5dd&lt;/code&gt; (same as &lt;code&gt;5dd&lt;/code&gt;, &lt;code&gt;d4j&lt;/code&gt;).&lt;br&gt;
+What about upwards &lt;code&gt;d4k&lt;/code&gt;/&lt;code&gt;4dk&lt;/code&gt; (4 is not a mistake, I'll explain). Those commands translate to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;dd&lt;/code&gt; means delete whole line&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;&amp;lt;number&amp;gt;&amp;lt;command&amp;gt;&lt;/code&gt; (&lt;code&gt;5dd&lt;/code&gt;) means repeat the command 5 times. Aka, delete 5 lines.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;d&lt;/code&gt; is the prefix for a command, that's why when you just press &lt;code&gt;d&lt;/code&gt; in normal mode, it doesn't do anything until you press another key (or &lt;code&gt;escape&lt;/code&gt; to cancel). If you press &lt;code&gt;d&lt;/code&gt; in visual mode when you have already selected something, that will simply delete the selected text.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;d4j&lt;/code&gt; now, why 4? Well, when you do &lt;code&gt;dj&lt;/code&gt; it deletes the current line AND the line below. It literally translates to "delete" this line and the line below (for &lt;code&gt;d4j&lt;/code&gt; it's this line and the 4 lines below). If you do &lt;code&gt;4j&lt;/code&gt; it'll move you 4 lines below, exactly where all of those lines would be deleted.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Instead of h j k l you can use arrow keys, but it's easier to have your hands on hjkl.&lt;/p&gt;
+&lt;p&gt;Now... I lied, &lt;code&gt;d&lt;/code&gt; doesn't delete, but it's easy to remember it as &lt;code&gt;d&lt;/code&gt;elete. It actually cuts text, and it puts it in the "unnamed register". Now, I won't talk about registers because the extensions usually use the system clipboard which is the best usecase in my opinion. You can paste in vim with &lt;code&gt;p&lt;/code&gt; (paste after cursor)/&lt;code&gt;P&lt;/code&gt; (paste before cursor).&lt;/p&gt;
+&lt;p&gt;You can move not just letters, but words as well.&lt;br&gt;
+For example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;w&lt;/code&gt; jump to the start of the next word&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;W&lt;/code&gt; jump to the start of the next word (ignore punctuation)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;e&lt;/code&gt; jump to the end of the words&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;E&lt;/code&gt; jump to the end of the words (ignore punctuation)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;b&lt;/code&gt; jump to the beginning of the words&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;B&lt;/code&gt; jump to the beginning of the words (ignore punctuation)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can also move by paragraphs &lt;code&gt;{&lt;/code&gt;/&lt;code&gt;}&lt;/code&gt;, move to matching paranthesis/brackets &lt;code&gt;%&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;You can also use &lt;code&gt;d&lt;/code&gt;elete, &lt;code&gt;y&lt;/code&gt;ank (copy), &lt;code&gt;c&lt;/code&gt;hange (same as delete but puts you in insert mode afterwards), using the movement commands. &lt;code&gt;d5w&lt;/code&gt; (delete 5 words), &lt;code&gt;d5b&lt;/code&gt; (delete 5 words backwards).&lt;/p&gt;
+&lt;p&gt;And my favourite thing in vim, &lt;code&gt;i&lt;/code&gt;n and &lt;code&gt;a&lt;/code&gt;round.&lt;br&gt;
+Assume you have a &lt;code&gt;function foo(var_a, var_b, var_c)&lt;/code&gt; and your cursor is on &lt;code&gt;b&lt;/code&gt; from &lt;code&gt;var_b&lt;/code&gt;.&lt;br&gt;
+You want to get rid of all parameters and rewrite them &lt;code&gt;ci(&lt;/code&gt;, which translates to "change in  ()", what if I want to also delete the paranthesis? &lt;code&gt;ca(&lt;/code&gt; "change around ()".&lt;/p&gt;
+&lt;p&gt;I have the word &lt;code&gt;very_long_word_holy_guacamole&lt;/code&gt;, and I my cursor is on &lt;code&gt;w&lt;/code&gt; from &lt;code&gt;word&lt;/code&gt;. Without vim I'd do &lt;code&gt;ctrl+right ctrl+backspace&lt;/code&gt; or &lt;code&gt;ctrl+right shift+ctrl+left delete/backspace&lt;/code&gt;, with vim I do &lt;code&gt;ciw&lt;/code&gt; "change in word".&lt;br&gt;
+Every movement command can be used in combination with &lt;code&gt;d&lt;/code&gt;elete, &lt;code&gt;y&lt;/code&gt;ank, &lt;code&gt;c&lt;/code&gt;hange, &lt;code&gt;v&lt;/code&gt;isual, etc. Every command can be combined with the movement keys.
+Now then, all of those were written from memory, it's easy to remember the commands once you use them, and it's a heck of a lot of fun doing so.&lt;br&gt;
+There's also &lt;code&gt;ctrl+o&lt;/code&gt;/&lt;code&gt;ctrl+i&lt;/code&gt; to move to last cursor position and back.&lt;/p&gt;
+&lt;p&gt;My point is, vim is superior to the traditional way of editing text (aka only "insert" mode).&lt;/p&gt;
+&lt;p&gt;Now, if you want to learn it, there's a good unix command (once you installed vim) called &lt;code&gt;vimtutor&lt;/code&gt;. It's there in wsl or any unix based operating system, might even be on windows if you install gvim.&lt;br&gt;
+If you don't want to learn it &lt;code&gt;¯\_(ツ)_/¯&lt;/code&gt;&lt;/p&gt;</content><category term="tech"></category><category term="editor"></category><category term="vim"></category><category term="sublime"></category></entry></feed>
