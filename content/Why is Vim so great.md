@@ -85,5 +85,11 @@ There's also `ctrl+o`/`ctrl+i` to move to last cursor position and back.
 
 My point is, vim is superior to the traditional way of editing text (aka only "insert" mode).
 
+If you entered vim and can't exit it, you can exit it from normal mode or command mode.  
+The traditional way is in normal mode you press `:q` and enter.  
+`:` stands for command mode, `q` stands for quit. Also `w` stands for write, so if you want to save and exit `:wq`, or `:x` (x is a bit different though, it won't write if no change occured).  
+If you want to quit without saving `:q!`.  
+Now you can also quit or save without pressing `:`, which is `ZZ` (equivalent to `:x`) or `ZQ` (equivalent to `:q!`). 
+
 Now, if you want to learn it, there's a good unix command (once you installed vim) called `vimtutor`. It's there in wsl or any unix based operating system, might even be on windows if you install gvim.  
 If you don't want to learn it `¯\_(ツ)_/¯`

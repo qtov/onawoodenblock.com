@@ -6,8 +6,9 @@ SITESUBTITLE = 'Tea freak, teaware admirer and keyboard masher.'
 SITEURL = ''
 
 THEME = 'Peli-Kiera'
-PLUGIN_PATHS = ['pelican-plugins']
+# PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['readtime', 'neighbors']
+READTIME_WPM = 180
 
 PATH = 'content'
 
