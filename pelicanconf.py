@@ -26,7 +26,6 @@ AUTHOR_FEED_RSS = None
 # Menu
 DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = (
-    ('Home', '/'),
     ('News', '/category/news.html'),
     ('Tea', '/category/tea.html'),
     ('Teaware', '/category/teaware.html'),
