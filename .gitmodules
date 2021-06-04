@@ -1,0 +1,3 @@
+[submodule "themes\\Peli-Kiera-Readtimefix\\"]
+	path = themes\\Peli-Kiera-Readtimefix\\
+	url = git@github.com:qtov/Peli-Kiera.git

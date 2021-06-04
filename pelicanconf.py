@@ -5,7 +5,7 @@ SITENAME = 'On a Wooden Block'
 SITESUBTITLE = 'Tea freak, teaware admirer and keyboard masher.'
 SITEURL = ''
 
-THEME = 'Peli-Kiera'
+THEME = 'Peli-Kiera-Readtimefix'
 # PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['readtime', 'neighbors']
 READTIME_WPM = 180
