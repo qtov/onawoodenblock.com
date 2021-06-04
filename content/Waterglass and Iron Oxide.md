@@ -1,6 +1,6 @@
 Title: I love cracks.
 Date: 2021-04-30 00:03
-Category: teaware
+Category: Teaware
 Tags: chawan, teaware
 Authors: Rexu
 Summary: Waterglass and Iron Oxide, quick showoff.

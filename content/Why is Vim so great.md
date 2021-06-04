@@ -1,6 +1,6 @@
 Title: Why is Vim so important for programmers.
 Date: 2021-06-04 17:43
-Category: tech
+Category: Tech
 Tags: editor, vim, sublime
 Authors: Rexu
 Summary: Why do I think vim is the greatest tool for any programmer.
