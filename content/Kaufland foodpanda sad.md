@@ -23,4 +23,4 @@ Why I made this post is because I'm quite bummed because of the lettuce, I'm sur
 
 But... now I don't. Will it be worth the extra work tomorrow to go out of the house, walk 15 minutes (one way) to buy some lettuce? Absolutely, not, thankfully they had the valeriana (lamb's lettuce) I ordered, it's good enough.
 
-As I said, I'm not sponsored, everything here is personal opinion. That's all there is to it, have a good night, see ya!
+As I said, I'm not sponsored, everything here is personal opinion. That's all there is to it, have a good night!

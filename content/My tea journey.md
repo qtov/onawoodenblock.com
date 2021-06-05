@@ -71,4 +71,4 @@ Unfortunately I can go to the workshop only once a week, and now because of some
 And so, the end goal is, a studio of my own where I can spend hours a day, and a kiln. And who knows, probably a teashop where people can enjoy drinking from my cups.  
 It will take quite a few years to achieve my dream, but it's a clear path.
 
-I hope it was a good read, see ya!
+I hope it was a good read!

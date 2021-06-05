@@ -23,4 +23,4 @@ And here is the second cup. After seeing what I can do with it, this is one of t
 
 <img src="/images/chawan_waterglass.jpg" width="760">
 
-Hope you like them, see ya!
+Hope you like them!

@@ -25,4 +25,4 @@ Yeah, so this was it, disappointment, paid a shitton for delivery (10-15 ron), 5
 
 Of course, it could be a one-time mistake, but for me the eye boggling fact that you CAN make bad mujdei still haunts me. Seriously... garlic, salt, water... simple.
 
-Well yeah... see ya!
+Yeah...

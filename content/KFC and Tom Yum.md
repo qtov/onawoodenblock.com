@@ -29,5 +29,3 @@ I enjoyed an easy soup without too much hassle. I really recommend something lik
 As a sidenote, what I also ate today was some chicken in the oven with some herb mix and a side of butter sauteed kale. Nothing too fancy, but it did its job. The bones were put in the fridge to make tomorrow another chicken stock, I'm not wasting them.
 
 Also, as to why I put Colinafarms if I'm such a cheap person? I make questionable choices.
-
-See ya!

@@ -70,4 +70,4 @@ That's my take on kimchi, it's worth trying it at least once in your life, I fel
 
 Around one year ago (3rd of April 2020) I made a batch of kimchi, and I apparently took pictures. The color came out something like [this](images/kimchi_me1.jpg), that's what you're aiming for. The most recent batch looks something like [this](images/kimchi_me2.jpg).
 
-Alright, that's it, see ya!
+Alright, yeah... that's it.
