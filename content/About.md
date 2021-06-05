@@ -14,7 +14,7 @@ I'll put food reviews (mostly orders, cause I don't really leave my house), cook
 
 My dream is, making cups, literally. I aim high.
 I actually make my own tea cups and so, I'd like to put them all here one day.
-The aestetic that I'm going towards is wabi-sabi, all my cups need a touch of irregularity, imperfection and rawness.
+The aestetic I'm going towards is wabi-sabi, all my cups need a touch of irregularity, imperfection and rawness.
 
 I don't own a kiln or studio yet, I'm just visiting a workshop once a week maximum, and now I won't be able to until August because of some works in the area.
 But I do want and will have a kiln and a place to enjoy creating beauties to no end.
@@ -25,4 +25,4 @@ I work as a Software Engineer so there'll be a category dedicated to coding and 
 
 I'm writing it in English because I like English, and it offers the possibility for the hundreds of thousands of people awaiting to read my blog to actually be able to.
 
-Well, that's it, see ya.
+Well, that's about it, see ya!

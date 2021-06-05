@@ -14,7 +14,7 @@ So, because I was cheap, because it was 11 ron cheaper than Bringo (and I didn't
 
 They didn't, fortunately, but the SPECIFIC items that don't exist, don't exist. I'm left without my salad and spring onions... sad.
 
-If I ordered through Bringo they would've nicely called me and said "Hey mate, we did not spring onions and lettuce" and then they would've told me what they replaced them with and if I want any more replacements or if I'm ok with what they did.  
+If I ordered through Bringo they would've nicely called me and said "Hey mate, we don't have spring onions and lettuce" and then they would've told me what they replaced them with and ask me if I want any more replacements or if I'm ok with what they did.  
 I could've replaced my spring onions with a leek and that exact lettuce with some other type of lettuce, an iceberg salad or some prepacked salad. But, I was cheap.
 
 What I'm trying to say with this is... Bringo is objectively superior to foodpanda. They have a way bigger library of products, they're more organized, you pay after the shopping, not before and having to wait days/weeks to get refunded (if you get, that is).
@@ -23,4 +23,4 @@ Why I made this post is because I'm quite bummed because of the lettuce, I'm sur
 
 But... now I don't. Will it be worth the extra work tomorrow to go out of the house, walk 15 minutes (one way) to buy some lettuce? Absolutely, not, thankfully they had the valeriana (lamb's lettuce) I ordered, it's good enough.
 
-As I said, I'm not sponsored, everything here is personal opinion. That's all there is to it, have a good night!
+That's all there is to it, have a good night!
