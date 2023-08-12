@@ -25,3 +25,5 @@ I work as a Software Engineer so there'll be a category dedicated to coding and 
 I'm writing it in English because I like English, and it offers the possibility for the hundreds of thousands of people awaiting to read my blog to actually be able to.
 
 Well, that's about it, see ya!
+
+Edit 12.08.2023: I actually currently co-own a pottery studio, but haven't updated the blog in quite a while, maybe will never do so. We'll see. No site tho.
