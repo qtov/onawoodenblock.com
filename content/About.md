@@ -7,16 +7,14 @@ Summary: Short summary to what this blog is about.
 
 So, what is this blog about...
 
-I live in Cluj-Napoca.
-
 I wanted to make a blog, so I made it.
-I'll put food reviews (mostly orders, cause I don't really leave my house), cooking, coding, ceramics, and whatever I feel the need to write about.
+I'll put food reviews, cooking, coding, ceramics, and whatever I feel the need to write about.
 
 I make my own tea cups and so, I'd like to put them all here one day.
 The aestetic I'm going towards is wabi-sabi, all my cups need a touch of irregularity, imperfection and rawness.
 
-I don't own a kiln or studio yet, I'm just visiting a workshop once a week.
-But I do want and will have a kiln and a place to enjoy creating beauties to no end.
+I currently rent a place with some people and have our own workshop.
+But later in life I want to have my own place to enjoy creating beauties to no end.
 
 Later, I might open an online shop for cups, but that remains to be seen.
 
